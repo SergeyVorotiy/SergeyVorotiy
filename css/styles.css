@@ -180,14 +180,17 @@ img {
     background-color: #FFF;
     height: 5px;
 }
-.skill-70 {
-    width: 70%;
-}
 .skill-60 {
     width: 60%;
 }
 .skill-65 {
     width: 65%;
+}
+.skill-70 {
+    width: 70%;
+}
+.skill-75 {
+    width: 75%;
 }
 .skill-80 {
     width: 80%;
