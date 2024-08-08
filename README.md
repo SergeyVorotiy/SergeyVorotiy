@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVqdXBheDRsazZiMGtqOTB1cWRhMm5pMXNlbzdqd2lndW9rZnliMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uurtMtTKqkJda4dk8Y/giphy-downsized-large.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVqdXBheDRsazZiMGtqOTB1cWRhMm5pMXNlbzdqd2lndW9rZnliMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uurtMtTKqkJda4dk8Y/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/Sergey_Voroty">
