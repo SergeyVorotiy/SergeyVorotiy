@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVqdXBheDRsazZiMGtqOTB1cWRhMm5pMXNlbzdqd2lndW9rZnliMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uurtMtTKqkJda4dk8Y/giphy-downsized-large.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/Sergey_Voroty">
     <img src="https://img.shields.io/badge/telegram-blue?logo=Telegarm&logoColor=white&style=for-the-badge" alt="telegram Badge"/>
   </a>
@@ -12,8 +12,16 @@
     <img src="https://img.shields.io/badge/instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=SergeyVorotiy&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SergeyVorotiy&style=flat-square&color=blue" alt=""/>
+</div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 ---
+
 ### :man_technologist: About Me :
 I am a Full Stack Developer from Russia.
 - Python3 for building REST API web applications.
