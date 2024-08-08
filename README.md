@@ -8,8 +8,8 @@
   <a href="https://vk.com/serenkiy_186">
     <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="vk Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://www.instagram.com/earlgrey.vorotiy?igsh=eGFmdGhoYTYyNnAz" alt="instagram Badge"/>
+  <a href="https://www.instagram.com/earlgrey.vorotiy?igsh=eGFmdGhoYTYyNnAz">
+    <img src="https://img.shields.io/badge/instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=SergeyVorotiy&style=flat-square&color=blue" alt=""/>
